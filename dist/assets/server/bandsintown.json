@@ -1,0 +1,1380 @@
+[
+    {
+    "id": "19847922",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/19847922?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-02-25T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Maracana",
+      "latitude": "-22.9",
+      "longitude": "-43.2333333",
+      "city": "Rio De Janeiro",
+      "region": "21",
+      "country": "Brazil"
+    },
+    "offers": [
+            {
+        "type": "Presale",
+        "url": "https://www.bandsintown.com/t/19847922?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+        ,                    "Queens of the Stone Age"
+                    ]
+  },    {
+    "id": "19847926",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/19847926?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-10-17T12:00:00",
+    "datetime": "2018-02-27T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Allianz Parque",
+      "latitude": "-23.5285091",
+      "longitude": "-46.6791306",
+      "city": "Sao Paulo",
+      "region": "SP",
+      "country": "Brazil"
+    },
+    "offers": [
+            {
+        "type": "Presale",
+        "url": "https://www.bandsintown.com/t/19847926?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+        ,                    "Queens of the Stone Age"
+                    ]
+  },    {
+    "id": "19847932",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/19847932?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-03-02T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Pedreira Paulo Leminsky",
+      "latitude": "-25.4166667",
+      "longitude": "-49.25",
+      "city": "Curitiba",
+      "region": "18",
+      "country": "Brazil"
+    },
+    "offers": [
+            {
+        "type": "Presale",
+        "url": "https://www.bandsintown.com/t/19847932?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+        ,                    "Queens of the Stone Age"
+                    ]
+  },    {
+    "id": "19847937",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/19847937?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-03-04T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Estadio Beira Rio",
+      "latitude": "-30.0333333",
+      "longitude": "-51.2",
+      "city": "Porto Alegre",
+      "region": "23",
+      "country": "Brazil"
+    },
+    "offers": [
+            {
+        "type": "Presale",
+        "url": "https://www.bandsintown.com/t/19847937?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+        ,                    "Queens of the Stone Age"
+                    ]
+  },    {
+    "id": "19847942",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/19847942?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-03-07T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Velez",
+      "latitude": "-34.5875",
+      "longitude": "-58.6725",
+      "city": "Buenos Aires",
+      "region": "07",
+      "country": "Argentina"
+    },
+    "offers": [
+                ],
+    "lineup": [
+                    "Foo Fighters"
+        ,                    "Queens of the Stone Age"
+                    ]
+  },    {
+    "id": "20210599",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210599?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-04-18T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Austin 360",
+      "latitude": "30.2669444",
+      "longitude": "-97.7427778",
+      "city": "Austin",
+      "region": "TX",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Sold Out",
+        "url": "https://www.bandsintown.com/t/20210599?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210600",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210600?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-04-19T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Cynthia Woods Amphitheater",
+      "latitude": "29.7630556",
+      "longitude": "-95.3630556",
+      "city": "Houston",
+      "region": "TX",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210600?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210602",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210602?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-04-21T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Starplex",
+      "latitude": "32.77561",
+      "longitude": "-96.753328",
+      "city": "Dallas",
+      "region": "TX",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210602?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210603",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210603?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-04-22T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Century Link Center",
+      "latitude": "32.5158333",
+      "longitude": "-93.7319444",
+      "city": "Bossier City",
+      "region": "LA",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210603?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210604",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210604?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-04-25T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Mid-Florida Amphitheatre",
+      "latitude": "27.9472222",
+      "longitude": "-82.4586111",
+      "city": "Tampa",
+      "region": "FL",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210604?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210605",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210605?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-04-26T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Perfect Vodka Amphitheater",
+      "latitude": "26.701632",
+      "longitude": "-80.056922",
+      "city": "West Palm Beach",
+      "region": "FL",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210605?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210606",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210606?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-11-03T14:00:00",
+    "datetime": "2018-04-28T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Georgia State Stadium",
+      "latitude": "33.736125",
+      "longitude": "-84.389355",
+      "city": "Atlanta",
+      "region": "GA",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210606?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210608",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210608?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-04-29T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Welcome To Rockville",
+      "latitude": "30.3229904",
+      "longitude": "-81.643959",
+      "city": "Jacksonville",
+      "region": "FL",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210608?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "18961489",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/18961489?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-06-29T10:00:00",
+    "datetime": "2018-05-01T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Rupp Arena",
+      "latitude": "38.049148",
+      "longitude": "-84.5010377",
+      "city": "Lexington",
+      "region": "KY",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/18961489?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+        ,                    "The Struts"
+                    ]
+  },    {
+    "id": "18961482",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/18961482?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-06-29T10:00:00",
+    "datetime": "2018-05-03T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Fedex Forum",
+      "latitude": "35.139517",
+      "longitude": "-90.05167",
+      "city": "Memphis",
+      "region": "TN",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/18961482?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+        ,                    "The Struts"
+                    ]
+  },    {
+    "id": "18961487",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/18961487?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-06-29T10:00:00",
+    "datetime": "2018-05-04T19:00:00",
+    "description":"Postponed - new date to be announced.",
+    "venue": {
+      "name": "Bridgestone Arena",
+      "latitude": "36.159949",
+      "longitude": "-86.77857",
+      "city": "Nashville",
+      "region": "TN",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/18961487?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+        ,                    "The Struts"
+                    ]
+  },    {
+    "id": "20285923",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20285923?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-06-01T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Rock am Ring (1-3 June)",
+      "latitude": "49.4477778",
+      "longitude": "11.0683333",
+      "city": "Nuremberg",
+      "region": "02",
+      "country": "Germany"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20285923?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20285975",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20285975?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-06-01T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Rock im Park (1-3 June)",
+      "latitude": "49.429037",
+      "longitude": "11.122492",
+      "city": "Nuremberg",
+      "region": "BY",
+      "country": "Germany"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20285975?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210610",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210610?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-10-27T06:55:00",
+    "datetime": "2018-06-05T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Ullevi",
+      "latitude": "57.70313",
+      "longitude": "11.98394",
+      "city": "Goteborg",
+      "region": "Vgi",
+      "country": "Sweden"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210610?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21022025",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21022025?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-06-10T17:30:00",
+    "description":"",
+    "venue": {
+      "name": "Trabrennbahn Bahrenfeld",
+      "latitude": "53.55",
+      "longitude": "10.0",
+      "city": "Hamburg",
+      "region": "04",
+      "country": "Germany"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21022025?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210611",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210611?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-06-11T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Sportspaleis Antwerp",
+      "latitude": "51.2166667",
+      "longitude": "4.4166667",
+      "city": "Antwerp",
+      "region": "01",
+      "country": "Belgium"
+    },
+    "offers": [
+            {
+        "type": "Sold Out",
+        "url": "https://www.bandsintown.com/t/20210611?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210612",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210612?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-10-26T06:00:00",
+    "datetime": "2018-06-13T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "STADE DE SUISSE",
+      "latitude": "46.962251",
+      "longitude": "7.464985",
+      "city": "Berne",
+      "region": "Switzerland",
+      "country": "Switzerland"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210612?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21022051",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21022051?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-06-14T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Visarno Arena",
+      "latitude": "43.78343",
+      "longitude": "11.21911",
+      "city": "Florence",
+      "region": "Tosc.",
+      "country": "Italy"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21022051?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210613",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210613?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-06-16T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Pinkpop Festival",
+      "latitude": "50.882215",
+      "longitude": "6.020001",
+      "city": "Landgraaf",
+      "region": "The Netherlands",
+      "country": "Netherlands"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210613?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21022142",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21022142?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-06-17T23:59:00",
+    "description":"",
+    "venue": {
+      "name": "Base A\u00E9rienne 217",
+      "latitude": "48.611486",
+      "longitude": "2.30604",
+      "city": "Br\u00C9tigny Sur Orge",
+      "region": "",
+      "country": "France"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21022142?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20102605",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20102605?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-10-18T07:55:00",
+    "datetime": "2018-06-19T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Etihad Stadium",
+      "latitude": "53.484601",
+      "longitude": "-2.202709",
+      "city": "Manchester",
+      "region": "",
+      "country": "United Kingdom"
+    },
+    "offers": [
+            {
+        "type": "Sold Out",
+        "url": "https://www.bandsintown.com/t/20102605?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20102577",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20102577?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-10-18T07:55:00",
+    "datetime": "2018-06-22T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "London Stadium",
+      "latitude": "51.5386545",
+      "longitude": "-0.0165093",
+      "city": "London",
+      "region": "",
+      "country": "England"
+    },
+    "offers": [
+            {
+        "type": "Sold Out",
+        "url": "https://www.bandsintown.com/t/20102577?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20102583",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20102583?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-10-18T07:55:00",
+    "datetime": "2018-06-23T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "London Stadium",
+      "latitude": "51.5386545",
+      "longitude": "-0.0165093",
+      "city": "London",
+      "region": "",
+      "country": "England"
+    },
+    "offers": [
+            {
+        "type": "Sold Out",
+        "url": "https://www.bandsintown.com/t/20102583?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21548981",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21548981?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2018-02-15T15:00:00",
+    "datetime": "2018-07-05T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "RBC Bluesfest (July 5-15)",
+      "latitude": "45.4281756",
+      "longitude": "-75.7357305",
+      "city": "Ottawa",
+      "region": "ON",
+      "country": "Canada"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21548981?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210614",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210614?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-07T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Bb&T Pavilion",
+      "latitude": "39.9403915",
+      "longitude": "-75.1299133",
+      "city": "Camden",
+      "region": "NJ",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210614?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210615",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210615?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-12T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Rogers Center",
+      "latitude": "43.6420288",
+      "longitude": "-79.3906021",
+      "city": "Toronto",
+      "region": "ON",
+      "country": "Canada"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210615?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210617",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210617?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-14T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Northwell Health @ Jones Beach Theater",
+      "latitude": "40.6014755",
+      "longitude": "-73.5023618",
+      "city": "Wantagh",
+      "region": "NY",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210617?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210619",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210619?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-16T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Madison Square Garden",
+      "latitude": "40.7141667",
+      "longitude": "-74.0063889",
+      "city": "New York",
+      "region": "NY",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210619?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210620",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210620?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-17T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Madison Square Garden",
+      "latitude": "40.7141667",
+      "longitude": "-74.0063889",
+      "city": "New York",
+      "region": "NY",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210620?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210621",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210621?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-11-03T14:00:00",
+    "datetime": "2018-07-19T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "PPG Paints Arena",
+      "latitude": "40.4388401",
+      "longitude": "-79.9908551",
+      "city": "Pittsburgh",
+      "region": "PA",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210621?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210622",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210622?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-21T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Fenway Park",
+      "latitude": "42.346522",
+      "longitude": "-71.09878",
+      "city": "Boston",
+      "region": "MA",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210622?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210623",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210623?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-22T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Fenway Park",
+      "latitude": "42.346522",
+      "longitude": "-71.09878",
+      "city": "Boston",
+      "region": "MA",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210623?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210625",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210625?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-11-03T14:00:00",
+    "datetime": "2018-07-25T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Blossom Music Center",
+      "latitude": "41.1084785",
+      "longitude": "-81.5087128",
+      "city": "Cuyahoga Falls",
+      "region": "OH",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210625?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210626",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210626?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-26T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Ruoff Home Mortgage Music Center",
+      "latitude": "39.7683333",
+      "longitude": "-86.1580556",
+      "city": "Indianapolis",
+      "region": "IN",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210626?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20210627",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20210627?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-29T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Wrigley Field",
+      "latitude": "41.85",
+      "longitude": "-87.65",
+      "city": "Chicago",
+      "region": "IL",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20210627?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20412679",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20412679?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-07-30T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Wrigley Field",
+      "latitude": "41.9474536",
+      "longitude": "-87.6561341",
+      "city": "Chicago",
+      "region": "IL",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Sold Out",
+        "url": "https://www.bandsintown.com/t/20412679?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20449483",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20449483?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-11-20T18:00:00",
+    "datetime": "2018-09-01T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Safeco Field",
+      "latitude": "47.5909875",
+      "longitude": "-122.3332268",
+      "city": "Seattle",
+      "region": "WA",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20449483?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20449484",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20449484?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-11-18T17:00:00",
+    "datetime": "2018-09-04T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Rogers Place",
+      "latitude": "53.546911",
+      "longitude": "-113.497237",
+      "city": "Edmonton",
+      "region": "AB",
+      "country": "Canada"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20449484?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20449482",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20449482?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-11-18T17:00:00",
+    "datetime": "2018-09-06T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Scotiabank Saddledome",
+      "latitude": "51.038075",
+      "longitude": "-114.051461",
+      "city": "Calgary",
+      "region": "AB",
+      "country": "Canada"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20449482?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20449508",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20449508?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-09-08T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Pepsi Live at Rogers Arena",
+      "latitude": "49.277818",
+      "longitude": "-123.108828",
+      "city": "Vancouver",
+      "region": "BC",
+      "country": "Canada"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20449508?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20449525",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20449525?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-09-10T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Moda Center",
+      "latitude": "45.531189",
+      "longitude": "-122.6664581",
+      "city": "Portland",
+      "region": "OR",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20449525?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "20449547",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/20449547?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2017-11-18T18:00:00",
+    "datetime": "2018-09-12T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "SAP Center",
+      "latitude": "37.3394444",
+      "longitude": "-121.8938889",
+      "city": "San Jose",
+      "region": "CA",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/20449547?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21264705",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21264705?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-10-06T12:30:00",
+    "description":"",
+    "venue": {
+      "name": "Cal Jam 18",
+      "latitude": "34.20256",
+      "longitude": "-117.41113",
+      "city": "San Bernardino",
+      "region": "CA",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21264705?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21264696",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21264696?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-10-08T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Talking Stick Resort Arena ",
+      "latitude": "33.4483333",
+      "longitude": "-112.0733333",
+      "city": "Phoenix",
+      "region": "AZ",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21264696?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21264697",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21264697?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-10-10T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Pepsi Center",
+      "latitude": "39.74894",
+      "longitude": "-105.007643",
+      "city": "Denver",
+      "region": "CO",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21264697?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21264699",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21264699?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-10-12T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Sprint Center ",
+      "latitude": "39.0997222",
+      "longitude": "-94.5783333",
+      "city": "Kansas City",
+      "region": "MO",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21264699?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21264701",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21264701?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2018-01-23T15:55:00",
+    "datetime": "2018-10-13T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Scottrade Center",
+      "latitude": "38.625966",
+      "longitude": "-90.201931",
+      "city": "St Louis",
+      "region": "MO",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21264701?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21264711",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21264711?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2018-01-23T14:55:00",
+    "datetime": "2018-10-15T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Little Caesars Arena",
+      "latitude": "42.341089",
+      "longitude": "-83.055434",
+      "city": "Detroit",
+      "region": "MI",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21264711?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21264719",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21264719?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "2018-01-26T15:00:00",
+    "datetime": "2018-10-17T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "Wisconsin Entertainment and Sports Center",
+      "latitude": "43.04228",
+      "longitude": "-87.916896",
+      "city": "Milwaukee",
+      "region": "WI",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21264719?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  },    {
+    "id": "21264725",
+    "artist_id": "250",
+    "url": "https://www.bandsintown.com/e/21264725?app_id=showrisk&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2018-10-18T19:00:00",
+    "description":"",
+    "venue": {
+      "name": "XCEL Energy Center",
+      "latitude": "44.944732",
+      "longitude": "-93.101017",
+      "city": "St Paul",
+      "region": "MN",
+      "country": "United States"
+    },
+    "offers": [
+            {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/21264725?app_id=showrisk&came_from=267",
+        "status": "available"
+      }
+                        ],
+    "lineup": [
+                    "Foo Fighters"
+                    ]
+  }  ]
